@@ -2,27 +2,14 @@ This repository contains the source code for an online bookstore e-commerce webs
 
 Features:
 
-User Authentication:
-Registration and login system
-Password encryption for secure authentication
+User Authentication: Registration and login system,Password encryption for secure authentication
 
-Book Catalog:
-Browse books by categories (genres, authors, etc.)
-Search functionality to find books by title, author, or ISBN
+Book Catalog: Browse books by categories (genres, authors, etc.), Search functionality to find books by title, author, or ISBN
 
-Shopping Cart:
-Add books to the cart
-Update book quantities
-Remove books from the cart
+Shopping Cart: Add books to the cart, Update book quantities, Remove books from the cart
 
-Checkout Process:
-Order summary
-Payment integration (if implemented)
+Checkout Process:Order summary, Payment method selection only (intergation not implemented)
 
-User Profile:
-View order history
-Update personal information
+User Profile: View order history,Update personal information
 
-Technologies Used:
-Frontend: HTML, CSS, Bootstrap, JavaScript
-Backend: PHP, MySQL 
+Technologies Used: Frontend: HTML, CSS, Bootstrap, JavaScript, Backend: PHP, MySQL 
